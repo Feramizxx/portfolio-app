@@ -39,7 +39,7 @@ export default function About() {
           <h2>Skills</h2>
           <hr/>
         </div>
-        <div className="row  ">
+        <div className="row">
         <IconContext.Provider value={{ className: "myReact-icons"}}>
             <div className="row w-100  mt-4 mt-lg-4 mt-md-5 ml-auto pt-4 pb-4 mr-auto ">
               <div className="col-md-2  d-flex justify-content-center align-items-center col-sm-2 w-100 col-lg-2">
