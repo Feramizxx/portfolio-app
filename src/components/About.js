@@ -60,7 +60,6 @@ export default function About() {
               <div className="col-md-2 d-flex justify-content-center align-items-center col-sm-2 col-lg-2">
               <a className="mb-2"><FaReact/></a>
               </div>
-             
             </div>
             </IconContext.Provider>
           </div>
